@@ -1,4 +1,4 @@
-package com.vinhng24.tripquest
+package com.vapng.rnbase
 
 import android.os.Build
 import android.os.Bundle

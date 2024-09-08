@@ -1,4 +1,4 @@
-package com.vinhng24.tripquest
+package com.vapng.rnbase
 
 import android.app.Application
 import android.content.res.Configuration

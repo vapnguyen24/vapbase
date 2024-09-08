@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.vinhng24.tripquest"
+      "bundleIdentifier": "com.vapng.rnbase"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.vinhng24.tripquest"
+      "package": "com.vapng.rnbase"
     },
     "web": {
       "bundler": "metro",
