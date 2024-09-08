@@ -7,7 +7,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>$(DEVELOPMENT_LANGUAGE)</string>
     <key>CFBundleDisplayName</key>
-    <string>trip-quest</string>
+    <string>rn-base</string>
     <key>CFBundleExecutable</key>
     <string>$(EXECUTABLE_NAME)</string>
     <key>CFBundleIdentifier</key>
@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.vinhng24.tripquest</string>
+          <string>com.vapng.rnbase</string>
         </array>
       </dict>
     </array>

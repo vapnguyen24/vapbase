@@ -109,9 +109,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.vinhng24.tripquest'
+    namespace 'com.vapng.rnbase'
     defaultConfig {
-        applicationId 'com.vinhng24.tripquest'
+        applicationId 'com.vapng.rnbase'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
